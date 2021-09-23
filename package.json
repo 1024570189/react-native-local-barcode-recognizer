@@ -6,10 +6,10 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/januslo/react-native-local-barcode-recognizer"
+    "url": "https://github.com/1024570189/react-native-local-barcode-recognizer"
   },
   "bugs": {
-    "url": "https://github.com/januslo/react-native-local-barcode-recognizer/issues"
+    "url": "https://github.com/1024570189/react-native-local-barcode-recognizer/issues"
   },
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,6 @@
   "peerDependencies": {
     "react": ">=16.3.1",
     "react-native": ">=0.55.4"
-  }
+  },
+  "homepage": "https://github.com/1024570189/react-native-local-barcode-recognizer"
 }
